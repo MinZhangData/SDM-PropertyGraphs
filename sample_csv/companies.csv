@@ -1,0 +1,101 @@
+company,companyid
+pple Inc.,id001
+Microsoft Corporation,id002
+Amazon.com Inc.,id003
+Alphabet Inc. (Google),id004
+"Meta Platforms, Inc. (Facebook)",id005
+"Tesla, Inc.",id006
+Nvidia Corporation,id007
+Meta Materials Inc.,id008
+Netflix Inc.,id009
+Adobe Inc.,id010
+"Zoom Video Communications, Inc.",id011
+"Advanced Micro Devices, Inc. (AMD)",id012
+"PayPal Holdings, Inc.",id013
+"Airbnb, Inc.",id014
+"Salesforce.com, Inc.",id015
+Shopify Inc.,id016
+Broadcom Inc.,id017
+Intel Corporation,id018
+"Cisco Systems, Inc.",id019
+Oracle Corporation,id020
+Texas Instruments Incorporated,id021
+"PepsiCo, Inc.",id022
+The Coca-Cola Company,id023
+"The Home Depot, Inc.",id024
+McDonald's Corporation,id025
+Starbucks Corporation,id026
+Exxon Mobil Corporation,id027
+Chevron Corporation,id028
+Johnson & Johnson,id029
+Pfizer Inc.,id030
+Walmart Inc.,id031
+Costco Wholesale Corporation,id032
+Procter & Gamble Company (The),id033
+"Nike, Inc.",id034
+The Walt Disney Company,id035
+General Electric Company,id036
+3M Company,id037
+International Business Machines Corporation (IBM),id038
+Accenture plc,id039
+American Express Company,id040
+JPMorgan Chase & Co.,id041
+"Goldman Sachs Group, Inc. (The)",id042
+Morgan Stanley,id043
+Citigroup Inc.,id044
+Bank of America Corporation,id045
+Wells Fargo & Company,id046
+Berkshire Hathaway Inc.,id047
+General Motors Company,id048
+Ford Motor Company,id049
+"Tesla, Inc.",id050
+"Twitter, Inc.",id051
+"Uber Technologies, Inc.",id052
+"Lyft, Inc.",id053
+"Airbnb, Inc.",id054
+"DoorDash, Inc.",id055
+Snap Inc.,id056
+"Pinterest, Inc.",id057
+Spotify Technology S.A.,id058
+Electronic Arts Inc.,id059
+"Activision Blizzard, Inc.",id060
+Zynga Inc.,id061
+"Take-Two Interactive Software, Inc.",id062
+"DocuSign, Inc.",id063
+Intuit Inc.,id064
+"Square, Inc.",id065
+"Robinhood Markets, Inc.",id066
+"Coinbase Global, Inc.",id067
+ZoomInfo Technologies Inc.,id068
+Twilio Inc.,id069
+"CrowdStrike Holdings, Inc.",id070
+"Datadog, Inc.",id071
+"MongoDB, Inc.",id072
+Snowflake Inc.,id073
+Palantir Technologies Inc.,id074
+"UiPath, Inc.",id075
+Unity Software Inc.,id076
+"Cloudflare, Inc.",id077
+"Roku, Inc.",id078
+"Okta, Inc.",id079
+"Zscaler, Inc.",id080
+"CrowdStrike Holdings, Inc.",id081
+"DocuSign, Inc.",id082
+"Moderna, Inc.",id083
+"Illumina, Inc.",id084
+Vertex Pharmaceuticals Incorporated,id085
+"Regeneron Pharmaceuticals, Inc.",id086
+Amgen Inc.,id087
+Biogen Inc.,id088
+"Gilead Sciences, Inc.",id089
+"Illumina, Inc.",id090
+"Baidu, Inc.",id091
+"JD.com, Inc.",id092
+Pinduoduo Inc.,id093
+"NetEase, Inc.",id094
+Tencent Holdings Limited,id095
+Bilibili Inc.,id096
+Sea Limited,id097
+"Coupang, Inc.",id098
+"MercadoLibre, Inc.",id099
+StoneCo Ltd.,id100
