@@ -1,4 +1,4 @@
-# SDM-PropertyGraphs
+# Semantic Data Management -PropertyGraphs
 [Check Project PDF](https://github.com/PhDnemo/SDM-PropertyGraphs/blob/main/DOC_YutaoCMinZ.pdf)
 
 ![Image 1](image/image_1.png)
